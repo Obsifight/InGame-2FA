@@ -1,0 +1,8 @@
+name: Gauth
+author: ThisIsMac
+version: 1.0
+main: fr.thisismac.gauth.Core
+commands:
+  auth:
+    syntax: /auth code | /auth enable | /auth disable
+    description: authentification from google auth
